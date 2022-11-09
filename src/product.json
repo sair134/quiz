@@ -1,0 +1,4 @@
+[{"quantity":32, "name":"Grapes","price":20,"category":"Eatable","shipping":true,"createdAt":"2021-09-04T08:16:04.387Z","updatedAt":"2021-09-04T13:15:03.328Z","artworkUrl":"/images/grapes.png"},
+{"quantity":125, "name":"Apple","price":110,"category":"Fruit","shipping":true,"createdAt":"2021-09-04T08:16:04.387Z","updatedAt":"2021-09-04T13:15:03.328Z","artworkUrl":"/images/apple.png"},
+{"quantity":45, "name":"Brinjal","price":40,"category":"Vegetable","shipping":true,"createdAt":"2021-09-04T08:16:04.387Z","updatedAt":"2021-09-04T13:15:03.328Z","artworkUrl":"/images/brinjal.png"}
+]
